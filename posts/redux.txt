@@ -1,0 +1,10 @@
+.. title: redux
+.. slug: redux
+.. date: 2022-12-22 21:58:15 UTC
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+once more with feeling!
